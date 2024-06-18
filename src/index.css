@@ -1,0 +1,8 @@
+:root {
+    /* Add your background pattern here */
+    background-color: #adadad;
+    background-image: radial-gradient(#fafafa9a 10%, transparent 10%),
+                        radial-gradient(#414141a4 10%, transparent 10%);
+    background-size: 100px 100px;
+    background-position: 0 0, 50px 50px;
+  }
